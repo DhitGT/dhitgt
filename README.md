@@ -95,3 +95,7 @@ my.future({
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/DhitGT/DhitGT/output/snake.svg" alt="Snake animation" />
+
+###
