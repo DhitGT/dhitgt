@@ -32,9 +32,9 @@ my.name = "Aditya dwi saputra"
 my.age = 17
 my.hobby = "Gaming"
 my.school = "SMKN 2 Bekasi"
-my.future([{
+my.future({
   dream: ["become a programmer 👨‍💻", "have a lot of money 🤑"]
-}])
+})
 
 ```
 
