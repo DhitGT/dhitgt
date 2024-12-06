@@ -31,7 +31,7 @@ const my = new About();
 my.name = "Aditya Dwi Saputra";
 my.age = 18;
 my.hobby = "Gaming 🎮, Hiking 🌄";
-my.school = "SMKN 2 Bekasi";
+my.education = {School : "SMKN 2 BEKASI", Major : "SOFTWARE ENGINEERING"};
 my.future({
   dream: ["become a programmer 👨‍💻", "have a lot of money 🤑"]
 });
