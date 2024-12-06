@@ -29,8 +29,8 @@
 ```javascript
 const my = new About();
 my.name = "Aditya Dwi Saputra";
-my.age = 17;
-my.hobby = "Gaming";
+my.age = 18;
+my.hobby = "Gaming 🎮, Hiking 🌄";
 my.school = "SMKN 2 Bekasi";
 my.future({
   dream: ["become a programmer 👨‍💻", "have a lot of money 🤑"]
